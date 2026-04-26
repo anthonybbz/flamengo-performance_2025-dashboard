@@ -41,7 +41,9 @@ section[data-testid="stMetric"] div {
 
 
 # carregar dados
-df = pd.read_csv("flamengo_jogos_2025.csv", encoding="latin-1")
+df = pd.read_csv(
+    "01_coleta_e_excel/flamengo_jogos_2025.csv",
+    encoding="latin-1
 
 
 # KPIs
