@@ -1,0 +1,39 @@
+Data/Hora,Competicao,Time da Casa,Time de Fora,Gols Feitos Resultado Intervalo,Gols Sofridos Resultado Intervalo,Resultado Intervalo,Gols Feitos Resultado Final,Gols Sofridos Resultado Final,Resultado Final,Pontos,Analise,Adversario
+2025-03-29 21:00:00-03:00,Campeonato Brasileiro Série A,Flamengo,Internacional,0,1,Derrota,1,1,Empate,1,Saiu da Derrota para o Empate,Internacional
+2025-04-06 18:30:00-03:00,Campeonato Brasileiro Série A,Vitória,Flamengo,0,0,Empate,2,1,Vitória,3,Saiu do Empate para a Vitória,Vitória
+2025-04-13 17:30:00-03:00,Campeonato Brasileiro Série A,Grêmio,Flamengo,1,0,Vitória,2,0,Vitória,3,Manteve a Vitória,Grêmio
+2025-04-16 21:30:00-03:00,Campeonato Brasileiro Série A,Flamengo,Juventude,3,0,Vitória,6,0,Vitória,3,Manteve a Vitória,Juventude
+2025-04-19 18:30:00-03:00,Campeonato Brasileiro Série A,Vasco da Gama,Flamengo,0,0,Empate,0,0,Empate,1,Empate nos dois tempos,Vasco da Gama
+2025-04-27 16:00:00-03:00,Campeonato Brasileiro Série A,Flamengo,Corinthians,3,0,Vitória,4,0,Vitória,3,Manteve a Vitória,Corinthians
+2025-05-04 18:30:00-03:00,Campeonato Brasileiro Série A,Cruzeiro,Flamengo,1,1,Empate,1,2,Derrota,0,Saiu do Empate para a Derrota,Cruzeiro
+2025-05-10 21:00:00-03:00,Campeonato Brasileiro Série A,Flamengo,Bahia,1,0,Vitória,1,0,Vitória,3,Manteve a Vitória,Bahia
+2025-05-18 18:30:00-03:00,Campeonato Brasileiro Série A,Flamengo,Botafogo,0,0,Empate,0,0,Empate,1,Empate nos dois tempos,Botafogo
+2025-05-25 16:00:00-03:00,Campeonato Brasileiro Série A,Palmeiras,Flamengo,0,0,Empate,2,0,Vitória,3,Saiu do Empate para a Vitória,Palmeiras
+2025-06-01 18:30:00-03:00,Campeonato Brasileiro Série A,Flamengo,Fortaleza,1,0,Vitória,5,0,Vitória,3,Manteve a Vitória,Fortaleza
+2025-07-12 16:30:00-03:00,Campeonato Brasileiro Série A,Flamengo,São Paulo,0,0,Empate,2,0,Vitória,3,Saiu do Empate para a Vitória,São Paulo
+2025-07-16 20:00:00-03:00,Campeonato Brasileiro Série A,Santos,Flamengo,0,0,Empate,0,1,Derrota,0,Saiu do Empate para a Derrota,Santos
+2025-07-20 19:30:00-03:00,Campeonato Brasileiro Série A,Flamengo,Fluminense,0,0,Empate,1,0,Vitória,3,Saiu do Empate para a Vitória,Fluminense
+2025-07-23 21:30:00-03:00,Campeonato Brasileiro Série A,Bragantino,Flamengo,0,0,Empate,2,1,Vitória,3,Saiu do Empate para a Vitória,Bragantino
+2025-07-27 20:30:00-03:00,Campeonato Brasileiro Série A,Flamengo,Mineiro,0,0,Empate,1,0,Vitória,3,Saiu do Empate para a Vitória,Mineiro
+2025-08-03 18:30:00-03:00,Campeonato Brasileiro Série A,Ceará,Flamengo,1,0,Vitória,1,1,Empate,1,Saiu da Vitória para o Empate,Ceará
+2025-08-09 18:30:00-03:00,Campeonato Brasileiro Série A,Flamengo,Mirassol,1,0,Vitória,2,1,Vitória,3,Manteve a Vitória,Mirassol
+2025-08-17 18:30:00-03:00,Campeonato Brasileiro Série A,Internacional,Flamengo,2,0,Vitória,3,1,Vitória,3,Manteve a Vitória,Internacional
+2025-08-25 21:00:00-03:00,Campeonato Brasileiro Série A,Flamengo,Vitória,3,0,Vitória,8,0,Vitória,3,Manteve a Vitória,Vitória
+2025-08-31 16:00:00-03:00,Campeonato Brasileiro Série A,Flamengo,Grêmio,0,0,Empate,1,1,Empate,1,Empate nos dois tempos,Grêmio
+2025-09-14 16:00:00-03:00,Campeonato Brasileiro Série A,Juventude,Flamengo,1,0,Vitória,2,0,Vitória,3,Manteve a Vitória,Juventude
+2025-09-21 17:30:00-03:00,Campeonato Brasileiro Série A,Flamengo,Vasco da Gama,1,1,Empate,1,1,Empate,1,Empate nos dois tempos,Vasco da Gama
+2025-09-28 20:30:00-03:00,Campeonato Brasileiro Série A,Corinthians,Flamengo,0,0,Empate,2,1,Vitória,3,Saiu do Empate para a Vitória,Corinthians
+2025-10-02 20:30:00-03:00,Campeonato Brasileiro Série A,Flamengo,Cruzeiro,0,0,Empate,0,0,Empate,1,Empate nos dois tempos,Cruzeiro
+2025-10-05 18:30:00-03:00,Campeonato Brasileiro Série A,Bahia,Flamengo,0,1,Derrota,0,1,Derrota,0,Não converteu a Derrota,Bahia
+2025-10-15 19:30:00-03:00,Campeonato Brasileiro Série A,Botafogo,Flamengo,1,0,Vitória,3,0,Vitória,3,Manteve a Vitória,Botafogo
+2025-10-19 16:00:00-03:00,Campeonato Brasileiro Série A,Flamengo,Palmeiras,3,1,Vitória,3,2,Vitória,3,Manteve a Vitória,Palmeiras
+2025-10-25 19:30:00-03:00,Campeonato Brasileiro Série A,Fortaleza,Flamengo,0,1,Derrota,0,1,Derrota,0,Não converteu a Derrota,Fortaleza
+2025-11-01 21:00:00-03:00,Campeonato Brasileiro Série A,Flamengo,Recife,0,0,Empate,3,0,Vitória,3,Saiu do Empate para a Vitória,Recife
+2025-11-05 21:30:00-03:00,Campeonato Brasileiro Série A,São Paulo,Flamengo,1,1,Empate,2,2,Empate,1,Empate nos dois tempos,São Paulo
+2025-11-09 18:30:00-03:00,Campeonato Brasileiro Série A,Flamengo,Santos,1,0,Vitória,3,2,Vitória,3,Manteve a Vitória,Santos
+2025-11-15 18:30:00-03:00,Campeonato Brasileiro Série A,Recife,Flamengo,1,1,Empate,5,1,Vitória,3,Saiu do Empate para a Vitória,Recife
+2025-11-19 21:30:00-03:00,Campeonato Brasileiro Série A,Fluminense,Flamengo,0,2,Derrota,1,2,Derrota,0,Não converteu a Derrota,Fluminense
+2025-11-22 21:30:00-03:00,Campeonato Brasileiro Série A,Flamengo,Bragantino,0,0,Empate,3,0,Vitória,3,Saiu do Empate para a Vitória,Bragantino
+2025-11-25 21:30:00-03:00,Campeonato Brasileiro Série A,Mineiro,Flamengo,0,1,Derrota,1,1,Empate,1,Saiu da Derrota para o Empate,Mineiro
+2025-12-03 21:30:00-03:00,Campeonato Brasileiro Série A,Flamengo,Ceará,1,0,Vitória,1,0,Vitória,3,Manteve a Vitória,Ceará
+2025-12-06 18:30:00-03:00,Campeonato Brasileiro Série A,Mirassol,Flamengo,2,2,Empate,3,3,Empate,1,Empate nos dois tempos,Mirassol
